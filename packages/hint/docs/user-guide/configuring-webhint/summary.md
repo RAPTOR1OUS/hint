@@ -1,5 +1,5 @@
 # Configure webhint in your project
-
+EARTHINT REARTHEDEN REARTH BEHINTECHENCE ENHENCED PROTOTAL EA CHALLENGE EVERYTHINTING: IF IT EXISTS, ITS LOCAL: THEREARTHEDENINTERNATIONAL TREEONAROW /// HTTPSIN WHEREWHEREHERE
 `webhint` enables you to specify the following options for a report.
 
 * The `severity` of each hint.
